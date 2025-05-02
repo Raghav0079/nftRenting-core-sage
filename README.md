@@ -22,3 +22,4 @@ A collection of CoreDAO contract templates for educational and development purpo
    git clone https://github.com/your-repo/coredao-contract-templates.git
    cd coredao-contract-templates
    
+   
